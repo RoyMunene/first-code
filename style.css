@@ -1,0 +1,104 @@
+body {
+  background-image: url('w3css.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size:17px;
+}
+
+.narrow{
+  font-weight: 400;
+}
+
+.normal{
+  font-weight: 500;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.h1{
+}
+
+.text-p {
+  color: #ff004d;
+}
+
+.wrapper img {
+  width: 30% !important;
+  border:5px solid #dcdcdc !important;
+  border-radius: 50% !important;
+  margin-bottom: 10px;
+}
+
+.text{
+    padding-left: 35%;
+}
+
+.wrapper{
+  text-align: center;
+}
+
+.links{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.links a{
+  display: inline;
+  text-decoration: none;
+  margin-right: 8px;
+  background-color: #ff004d;
+  padding:12px 20px;
+  color:white;
+  border-radius: 4px;
+}
+
+.links a:hover{
+  display: inline;
+  text-decoration: none;
+  margin-right: 8px;
+  background-color: #d80041;
+  padding:12px 20px;
+  color:white;
+  border-radius: 4px;
+  
+}
+
+
+.content{
+  width:50%;
+  margin:0 auto;
+  margin-top:50px;
+}
+
+.content .home{
+  border-left: 2px solid #d80041;
+  padding:15px;
+}
+
+.content .gallery{
+  border-left: 2px solid #000000;
+}
+
+.content .contacts{
+  height: 200px;
+  border-left: 2px solid #d80041;
+  padding:15px;
+}
+
+.gallery img{
+  width:100%;
+}
+.content .footer{
+  height: 200px;
+  border-left: 2px solid #000000;
+  padding:15px;
+}
+.testimonial{
+  background-color: #ff004d;
+  padding: 10px;
+  color: white;
+}
